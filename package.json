@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/jmreidy/react-foundation/issues"
   },
-  "homepage": "https://github.com/jmreidy/react-foundation"
+  "homepage": "https://github.com/jmreidy/react-foundation",
+  "browserify": {
+    "transform": ["reactify"]
+  }
 }
