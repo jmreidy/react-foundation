@@ -1,0 +1,24 @@
+{
+  "name": "react-foundation",
+  "version": "0.0.1",
+  "description": "Zurb Foundation as React components",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jmreidy/react-foundation"
+  },
+  "keywords": [
+    "React",
+    "Zurb",
+    "Foundation"
+  ],
+  "author": "Justin Reidy <jmreidy@rzrsharp.net>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jmreidy/react-foundation/issues"
+  },
+  "homepage": "https://github.com/jmreidy/react-foundation"
+}
